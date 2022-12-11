@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Silkscreen&display=swap');
+
+body {
+    background-color: #D8D8D8;
+}
+
+#header-seting {
+    text-align: center;
+    background-color: black;
+}
+#content-menu{
+    background-color: #D8D8D8;
+    padding: 3%;
+}
+#content-body{
+    background-color: #D8D8D8;
+    padding: 15px;
+}
+#content-box{
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+#content-box img {
+    width: 20%;
+    height: auto;
+}
+#top-menu {
+    text-align: center;
+}
+#menu {
+    text-decoration: none;
+    color: black;
+    padding: 1% 2% 1% 2%;
+    margin: 10px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+#footer-bar {
+    background-color: black;
+    color: white;
+}
+p {
+    font-family: 'Jua', sans-serif;
+}
+.box-content{
+    display: flex;
+    justify-content: center;
+}
